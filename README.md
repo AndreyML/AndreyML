@@ -18,11 +18,11 @@
   </a>
   
   <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://ru.wikipedia.org/wiki/CatBoost#/media/%D0%A4%D0%B0%D0%B9%D0%BB:CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+    <img src="https://ru.wikipedia.org/wiki/CatBoost#/media/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
   </a>
   
   <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
-    <img src="https://en.wikipedia.org/wiki/Scikit-learn#/media/File:Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/Scikit-learn#/media/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
   </a>
  
 </p>

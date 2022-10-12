@@ -6,7 +6,7 @@
 ### 📊 ML stack
 <p align="left"> 
   <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://ru.wikipedia.org/wiki/CatBoost#/media/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
   </a>
   
   <a href="https://www.python.org" target="_blank"> 

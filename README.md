@@ -27,7 +27,8 @@
  
 </p>
 
-
+### Work experience
+* Interm at [NeuroSputnik](https://neurosputnik.ru/) (June - August 2022)
 
 ### 🎓 Education
 

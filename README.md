@@ -1,6 +1,5 @@
-# laptev
-## Fedor Avilov
-#### Data Scientist / Web Programmer / Designer 
+## Andrey Laptev
+#### ML engineer
 </br>
 
 
@@ -35,11 +34,9 @@
 * [Deep Learning School](https://mipt.ru/science/labs/innovation/projects/deep_learning_school) (Since 2021)
 * [NUST MISIS](https://en.misis.ru) (Since 2021)
 
-### 🏆 Competition Background
-* 🥇 [WorldSkills 2019](https://worldskills.ru) "Web Design and Development"
-* 🥇<sub>Profficiency Medal</sub> [WorldSkills 2018](https://worldskills.ru) "Web Design and Development"
-* 4/30 [WorldSkills 2019](https://worldskills.ru) "Game Development"
-* 42/109 [Leaders of Digital](https://lk.hacks-ai.ru/758465/) "Microcirculation"
+### 🏆 ML Competition Background
+* 🥇 [RuCode 5.0](https://rucode.net/)
+* 🥇 [Moscow City Hack 2022](https://moscityhack2022.innoagency.ru/)
 
 ### Contacts
 <p align="left"> 

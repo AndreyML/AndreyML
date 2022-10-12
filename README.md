@@ -9,16 +9,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
   </a>
   
+   <a href="https://catboost.ai/" target="_blank"> 
+    <img src="https://ru.wikipedia.org/wiki/CatBoost#/media/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
+  </a>
+  
   <a href="https://pytorch.org" target="_blank"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
   </a>
   
   <a href="https://albumentations.ai" target="_blank"> 
     <img src="https://albumentations.ai/assets/img/custom/albumentations_logo.png" alt="albumentations" width="40" height="40"/>
-  </a>
-  
-  <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
   </a>
   
   <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 

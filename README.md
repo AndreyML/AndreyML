@@ -9,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
   </a>
   
-   <a href="https://catboost.ai/" target="_blank"> 
+  <a href="https://catboost.ai/" target="_blank"> 
     <img src="https://ru.wikipedia.org/wiki/CatBoost#/media/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
   </a>
   

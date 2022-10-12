@@ -1,6 +1,5 @@
 ## Andrey Laptev :crown:
-#### Machine Learning engineer
-</br>
+### Machine Learning engineer
 ###📊 ML stack
 <p align="left"> 
   <a href="https://catboost.ai/" target="_blank"> 

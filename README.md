@@ -23,7 +23,7 @@
   </a>
 </p>
 
-### Work experience
+### :chart_with_upwards_trend: Work experience
 * Interm at [NeuroSputnik](https://neurosputnik.ru/) (June - August 2022)
   - Computer Vision tasks 
 

@@ -22,7 +22,7 @@
   </a>
   
   <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 
-    <img src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Scikit-learn&stype=image&lr=213&pos=8&img_url=http%3A%2F%2Fi7.pngflow.com%2Fpngimage%2F905%2F45%2Fpng-scikit-learn-python-scikit-logo-brand-learning-text-computer-orange-logo-clipart-thumb.png" alt="sklearn" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="sklearn" width="50" height="50"/>
   </a>
 </p>
 

@@ -18,7 +18,7 @@
   </a>
   
   <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="catboost" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="40" height="40"/>
   </a>
   
   <a href="https://scikit-learn.org/stable/index.html" target="_blank"> 

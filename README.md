@@ -41,7 +41,7 @@
 ### 🏆 ML Competition Background
 * 🥇 [RuCode 5.0](https://rucode.net/)
 * 🥇 [Moscow City Hack 2022](https://moscityhack2022.innoagency.ru/)
-* 🥇 [AI Journey Contest 2022]([https://moscityhack2022.innoagency.ru/](https://aij.ru/contest))
+* 🥇 [AI Journey Contest 2022]((https://aij.ru/contest))
 * 🥇 [RuCode 6.0](https://rucode.net/)
 * 🥇 [RuCode 6.5](https://rucode.net/)
 

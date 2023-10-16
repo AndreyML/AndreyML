@@ -25,7 +25,13 @@
 
 ### :chart_with_upwards_trend: Work experience
 * Interm at [NeuroSputnik](https://neurosputnik.ru/) (June - August 2022)
-  - Computer Vision tasks 
+  - Computer Vision tasks
+* Junior+ ML Engineer at [Tinkoff](https://www.tinkoff.ru/) (February - August 2023)
+  - Development, implementation and deployment  ML models to solve the problems of the recommender system
+* ML TeamLead at [Qlan](http://qlan.tech/) (August 2023 - present)
+  - Development, implementation and deployment  ML models for any tasks of NLP, CV, RecSys
+  - Hiring ML Engineers
+  - Leading ML team
 
 ### 🎓 Education
 
@@ -35,6 +41,9 @@
 ### 🏆 ML Competition Background
 * 🥇 [RuCode 5.0](https://rucode.net/)
 * 🥇 [Moscow City Hack 2022](https://moscityhack2022.innoagency.ru/)
+* 🥇 [AI Journey Contest 2022]([https://moscityhack2022.innoagency.ru/](https://aij.ru/contest))
+* 🥇 [RuCode 6.0](https://rucode.net/)
+* 🥇 [RuCode 6.5](https://rucode.net/)
 
 ### Contacts
 <p align="left"> 

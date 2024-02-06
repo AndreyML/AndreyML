@@ -1,5 +1,8 @@
 ## Andrey Laptev :crown:
 #### ML engineer
+
+[CV](https://drive.google.com/file/d/1MR83l6VLXn3f593m2c802cu9EwSQTrn4/view)
+
 ### :dart: ML stack
 <p align="left"> 
   <a href="https://huggingface.co/" target="_blank"> 

@@ -24,19 +24,22 @@
 </p>
 
 ### :chart_with_upwards_trend: Work experience
-* Interm at [NeuroSputnik](https://neurosputnik.ru/) (June - August 2022)
-  - Computer Vision tasks
-* Junior+ ML Engineer at [Tinkoff](https://www.tinkoff.ru/) (February - August 2023)
-  - Development, implementation and deployment  ML models to solve the problems of the recommender system
-* ML TeamLead at [Qlan](http://qlan.tech/) (August 2023 - present)
-  - Development, implementation and deployment  ML models for any tasks of NLP, CV, RecSys
-  - Hiring ML Engineers
-  - Leading ML team
+AI Startup Qlan | ML Engineer, TeamLead August 2023 – Current
+  • Development customers Q&A AI bots based on LLM model.
+  • Development Real Estate price prediction system for Dubai companies.
+  • Leading a team of 2 ML engineers and Backend engineer.
+  • Communicating with business customers, designing ML systems, working on a project flow.
+Tinkoff | Junior Research&Develop ML Engineer February 2023 – August 2023
+  • Implementation, training of models SOTA models.
+  • Training and development of BERT-like models for the recommendation systems problem.
+  • Training and development of two-tiered recommendation systems pipelines.
+LLC ”NEUROSPUTNIK” | Interm ML Engineer June 2022 – August 2022
+  • Implementing SOTA models to solve the semantic segmentation problem of cerebral blood vessels
 
 ### 🎓 Education
 
-* [Deep Learning School](https://mipt.ru/science/labs/innovation/projects/deep_learning_school) (Since 2021)
-* [NUST MISIS](https://en.misis.ru) (Since 2021)
+* [Deep Learning School](https://mipt.ru/science/labs/innovation/projects/deep_learning_school) (2021 - 2022)
+* [NUST MISIS](https://en.misis.ru) (2021 - Current)
 
 ### 🏆 ML Competition Background
 * 🥇 [RuCode 5.0](https://rucode.net/)

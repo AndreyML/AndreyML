@@ -27,16 +27,17 @@
 </p>
 
 ### :chart_with_upwards_trend: Work experience
-AI Startup Qlan | ML Engineer, TeamLead August 2023 – Current
+
+AI Startup Qlan | ML Engineer, TeamLead (August 2023 – Current)
   • Development customers Q&A AI bots based on LLM model.
   • Development Real Estate price prediction system for Dubai companies.
   • Leading a team of 2 ML engineers and Backend engineer.
   • Communicating with business customers, designing ML systems, working on a project flow.
-Tinkoff | Junior Research&Develop ML Engineer February 2023 – August 2023
+Tinkoff | Junior Research&Develop ML Engineer February (2023 – August 2023)
   • Implementation, training of models SOTA models.
   • Training and development of BERT-like models for the recommendation systems problem.
   • Training and development of two-tiered recommendation systems pipelines.
-LLC ”NEUROSPUTNIK” | Interm ML Engineer June 2022 – August 2022
+LLC ”NEUROSPUTNIK” | Interm ML Engineer (June 2022 – August 2022)
   • Implementing SOTA models to solve the semantic segmentation problem of cerebral blood vessels
 
 ### 🎓 Education

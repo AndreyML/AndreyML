@@ -1,5 +1,5 @@
 ## Andrey Laptev :crown:
-#### ML engineer
+#### ML engineer: RecSys, NLP
 
 [CV](https://drive.google.com/file/d/1MR83l6VLXn3f593m2c802cu9EwSQTrn4/view)
 

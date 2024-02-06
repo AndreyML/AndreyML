@@ -2,6 +2,9 @@
 #### ML engineer
 ### :dart: ML stack
 <p align="left"> 
+  <a href="https://huggingface.co/" target="_blank"> 
+    <img src="https://dxj7eshgz03ln.cloudfront.net/production/publication/social_logo/13299/composited_ae508b63-c76b-450c-b239-dee0f84414ff.png" alt="huggingface" width="50" height="50"/>
+  </a>
   <a href="https://catboost.ai/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="50" height="50"/>
   </a>

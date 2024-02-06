@@ -28,7 +28,7 @@
 
 ### :chart_with_upwards_trend: Work experience
 
-AI Startup Qlan | ML Engineer, TeamLead (August 2023 – Current)
+AI Startup Qlan | ML Engineer, TeamLead (August 2023 – Current) <br />
   • Development customers Q&A AI bots based on LLM model.
   • Development Real Estate price prediction system for Dubai companies.
   • Leading a team of 2 ML engineers and Backend engineer.

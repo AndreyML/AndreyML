@@ -6,7 +6,7 @@
 ### :dart: ML stack
 <p align="left"> 
   <a href="https://huggingface.co/" target="_blank"> 
-    <img src="https://dxj7eshgz03ln.cloudfront.net/production/publication/social_logo/13299/composited_ae508b63-c76b-450c-b239-dee0f84414ff.png" alt="huggingface" width="50" height="50"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="50" height="50"/>
   </a>
   <a href="https://catboost.ai/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="catboost" width="50" height="50"/>
@@ -51,11 +51,14 @@ LLC ”NEUROSPUTNIK” | Interm ML Engineer (June 2022 – August 2022) <br />
 * [NUST MISIS](https://en.misis.ru) (2021 - Current)
 
 ### 🏆 ML Competition Background
-* 🥇 [RuCode 5.0](https://rucode.net/)
-* 🥇 [Moscow City Hack 2022](https://moscityhack2022.innoagency.ru/)
 * 🥇 [AI Journey Contest 2022](https://aij.ru/)
 * 🥇 [RuCode 6.0](https://rucode.net/)
 * 🥇 [RuCode 6.5](https://rucode.net/)
+* 🥇 [Moscow City Hack 2022](https://moscityhack2022.innoagency.ru/)
+* 🥈 [RuCode 5.0](https://rucode.net/)
+* 🥈 [DataWagon Hack](https://datawagon.ru/)
+* 🥈 [VK Mini ML](https://cups.online/ru/contests/vk-miniml)
+* 30/236th place [YandexCup 2023](https://yandex.ru/cup/)
 
 ### Contacts
 <p align="left"> 

@@ -62,7 +62,7 @@ LLC ”NEUROSPUTNIK” | Interm ML Engineer (June 2022 – August 2022) <br />
 
 ### Contacts
 <p align="left"> 
-  <a href="https://t.me/laptev13" target="_blank"> 
+  <a href="https://t.me/laptev_ml" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
   </a>
 </p>
